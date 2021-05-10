@@ -1,4 +1,4 @@
-# Crypto-Risk-Portfolio
+# Crypto Risk Profile
 Risk profile analysis of a tradin bot deployed in a crypto exchange
 
 <em> Risk profile.R </em>
